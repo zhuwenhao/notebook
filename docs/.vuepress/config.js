@@ -10,6 +10,7 @@ module.exports = {
                 {
                     title: '动画',
                     collapsable: false,
+					sidebarDepth: 2,
                     children: [
                         ['', '介绍'],
                         'detective-conan',
