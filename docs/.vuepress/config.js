@@ -3,14 +3,14 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
-            { text: '动画', link: '/anime/'}
+            { text: '动画', link: '/anime/' }
         ],
         sidebar: {
             '/anime/': [
                 {
                     title: '动画',
                     collapsable: false,
-					sidebarDepth: 2,
+                    sidebarDepth: 2,
                     children: [
                         ['', '介绍'],
                         'detective-conan',
