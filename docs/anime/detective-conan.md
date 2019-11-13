@@ -72,6 +72,26 @@
 | 848 | 千叶的UFO疑难事件（后篇） | [[SBSUB][CONAN][847&848][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:40952b80a32cfe7c3c650c77d0ae16436d9ada42) | D78C9BD5 | |
 | 849 | 结婚申请表的密码（前篇） | [[SBSUB][CONAN][849&850][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:b042a32ffd4f70def98c79a9a4b1aee1e0002dfc) | EF623F70 | |
 | 850 | 结婚申请表的密码（后篇） | [[SBSUB][CONAN][849&850][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:b042a32ffd4f70def98c79a9a4b1aee1e0002dfc) | 5BDA3431 | |
+| 851 | 恋爱地狱的巡回旅行（别府篇） | [[SBSUB][CONAN][851&852][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:9e1a9e80e6e315f943afaa16bfbc15ffd29786d8) | 85AB6734 | |
+| 852 | 恋爱地狱的巡回旅行（大分篇） | [[SBSUB][CONAN][851&852][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:9e1a9e80e6e315f943afaa16bfbc15ffd29786d8) | AEAABE88 | |
+| 853 | 樱花班的回忆（兰GIRL） | [[SBSUB][CONAN][853&854][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:519c38b83858023418a9d493cfb37b57d96f45db) | C00AB790 | |
+| 854 | 樱花班的回忆（新一BOY） | [[SBSUB][CONAN][853&854][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:519c38b83858023418a9d493cfb37b57d96f45db) | 135FB791 | |
+| 855 | 黑带消失之谜 | [[SBSUB][CONAN][855][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:0428b64a86b07849da15c18b557a363ca03cab4d) | ED2080E6 | |
+| 856 | 名流夫妇的秘密 | [[SBSUB][CONAN][856][V2][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:fa51b901e1a022ca7a78a4e01d87f27f765d3d40) | EEC25F17 | |
+| 857 | 米花町翻来覆去的悬疑剧（前篇） | [[SBSUB][CONAN][857&858][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:d33d7f210f8b4e605c27445fc4ec852ff2064bca) | B7BFE90F | |
+| 858 | 米花町翻来覆去的悬疑剧（后篇） | [[SBSUB][CONAN][857&858][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:d33d7f210f8b4e605c27445fc4ec852ff2064bca) | 5CD968F1 | |
+| 859 | 阴暗的登山路 | [[SBSUB][CONAN][859][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:b91297cb7991d4611ab431dea9acd2e6abe39d5d) | 60FACDAF | |
+| 860 | 监控系统的圈套 | [[SBSUB][CONAN][860][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:b63cc8c1a8261cb64b8466fbcea15ab96978b31e) | 70B6015B | |
+| 861 | 与十七年前相同的现场（前篇） | [[SBSUB][CONAN][861&862][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:60917bdce18c88c3e837d768e5d70bb5b2895297) | F491AFBA | |
+| 862 | 与十七年前相同的现场（后篇） | [[SBSUB][CONAN][861&862][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:60917bdce18c88c3e837d768e5d70bb5b2895297) | C4D32544 | |
+| 863 | 灵魂侦探遇害事件（前篇） | [[SBSUB][CONAN][863&864][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:c0df27bf32ce988276439b313cab3759ef5dceee) | 83077696 | |
+| 864 | 灵魂侦探遇害事件（后篇） | [[SBSUB][CONAN][863&864][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:c0df27bf32ce988276439b313cab3759ef5dceee) | 33D6ABCD | |
+| 865 | 毒舌九官鸟 | [[SBSUB][CONAN][865][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:fd951328c63275e6c402844fb8362e5771ad1766) | C88700DF | |
+| 866 | 背叛者的舞台（前篇） | [[SBSUB][CONAN][866&867][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:a27115e682f2fe79447b554c332fff82f3745cc0) | 5D10BBDB | |
+| 867 | 背叛者的舞台（后篇） | [[SBSUB][CONAN][866&867][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:a27115e682f2fe79447b554c332fff82f3745cc0) | 92696EDD | |
+| 868 | 汽笛声萦绕的旧书店 | [[SBSUB][CONAN][868][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:15a92ab2783ffee6798f7ba5d28e57adfccf7519) | 39FB56D4 | |
+| 869 | 消失于断崖的柯南（前篇） | [[SBSUB][CONAN][869&870][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:ded62e39582c28fc33cc278c70488b8b0f7199ba) | A33C477E | |
+| 870 | 消失于断崖的柯南（后篇） | [[SBSUB][CONAN][869&870][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:ded62e39582c28fc33cc278c70488b8b0f7199ba) | 9E012358 | |
 
 ### 901 ~ 1000
 
