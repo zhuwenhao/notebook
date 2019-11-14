@@ -92,6 +92,16 @@
 | 868 | 汽笛声萦绕的旧书店 | [[SBSUB][CONAN][868][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:15a92ab2783ffee6798f7ba5d28e57adfccf7519) | 39FB56D4 | |
 | 869 | 消失于断崖的柯南（前篇） | [[SBSUB][CONAN][869&870][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:ded62e39582c28fc33cc278c70488b8b0f7199ba) | A33C477E | |
 | 870 | 消失于断崖的柯南（后篇） | [[SBSUB][CONAN][869&870][1080P][AVC_AAC][MKV]](magnet:?xt=urn:btih:ded62e39582c28fc33cc278c70488b8b0f7199ba) | 9E012358 | |
+| 871 | 信长四五〇事件 | [[SBSUB][CONAN][871][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:bb7c236c69853c1655bf49ee03930da5ef918a86) | A3A4CA90 | |
+| 872 | 柯南和平次的鵺传说（鸣声篇） | [[SBSUB][CONAN][872&873&874][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:40b89317e65a9b57ccee477f0e0ccbc4ae0cebb8) | 1EBC4000 | |
+| 873 | 柯南和平次的鵺传说（爪痕篇） | [[SBSUB][CONAN][872&873&874][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:40b89317e65a9b57ccee477f0e0ccbc4ae0cebb8) | DA23EEA8 | |
+| 874 | 柯南和平次的鵺传说（解决篇） | [[SBSUB][CONAN][872&873&874][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:40b89317e65a9b57ccee477f0e0ccbc4ae0cebb8) | BEDB07A7 | |
+| 875 | 不可思议的预知佛像 | [[SBSUB][CONAN][875][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:cf59fbe288fce2832911f4da2c6aeedb9f1ff4c6) | 54F15252 | |
+| 876 | 机械装置的目击者 | [[SBSUB][CONAN][876][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:0941dcbcc24f69250e365dd4af2811b1475519bf) | 05E33AB0 | |
+| 877 | 命运交错的二人 | [[SBSUB][CONAN][877][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:06281fbd7904bc255673b9592d4e274954a3be89) | 16C1A6AB | |
+| 878 | 试衣间的死角（前篇） | [[SBSUB][CONAN][878&879][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:3cd6d544933338ab14f959a208e1cdbcec9115a1) | 67C8C23E | |
+| 879 | 试衣间的死角（后篇） | [[SBSUB][CONAN][878&879][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:3cd6d544933338ab14f959a208e1cdbcec9115a1) | 81E9DD31 | |
+| 880 | 侦探团和幽灵馆 | [[SBSUB][CONAN][880][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:29c4c8a41eb74118c71709e8f0a11e059f668262) | 21567E4B | |
 
 ### 901 ~ 1000
 
