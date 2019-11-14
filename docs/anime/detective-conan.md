@@ -102,6 +102,18 @@
 | 878 | 试衣间的死角（前篇） | [[SBSUB][CONAN][878&879][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:3cd6d544933338ab14f959a208e1cdbcec9115a1) | 67C8C23E | |
 | 879 | 试衣间的死角（后篇） | [[SBSUB][CONAN][878&879][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:3cd6d544933338ab14f959a208e1cdbcec9115a1) | 81E9DD31 | |
 | 880 | 侦探团和幽灵馆 | [[SBSUB][CONAN][880][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:29c4c8a41eb74118c71709e8f0a11e059f668262) | 21567E4B | |
+| 881 | 涟漪上的魔法师（前篇） | [[SBSUB][CONAN][881&882][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:b03dbbdb562d81ae44d860b3739c73d7fad2266f) | C5EECEDE | |
+| 882 | 涟漪上的魔法师（后篇） | [[SBSUB][CONAN][881&882][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:b03dbbdb562d81ae44d860b3739c73d7fad2266f) | CA64431B | |
+| 883 | 绘本里飞出的爆炸魔（前篇） | [[SBSUB][CONAN][883&884][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:92b1b9983d57c9a0f3a61cf803720d0bb4708d0f) | 008D125D | |
+| 884 | 绘本里飞出的爆炸魔（后篇） | [[SBSUB][CONAN][883&884][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:92b1b9983d57c9a0f3a61cf803720d0bb4708d0f) | 9AD5A8F7 | |
+| 885 | 在波洛咖啡店解谜（前篇） | [[SBSUB][CONAN][885&886][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:dc5cb8e8f53a848c84639d6464b7ff784d0a706c) | FD5AA910 | |
+| 886 | 在波洛咖啡店解谜（后篇） | [[SBSUB][CONAN][885&886][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:dc5cb8e8f53a848c84639d6464b7ff784d0a706c) | B27A900C | |
+| 887 | 怪盗基德的机关箱（前篇） | [[SBSUB][CONAN][887&888][1080P][MP4&MKV]](magnet:?xt=urn:btih:8566d6c47e26aa6fa92bc185f54253b225e11147) | D902E20D | |
+| 888 | 怪盗基德的机关箱（后篇） | [[SBSUB][CONAN][887&888][1080P][MP4&MKV]](magnet:?xt=urn:btih:8566d6c47e26aa6fa92bc185f54253b225e11147) | A0DF34BB | |
+| 889 | 新任老师的骸骨事件（前篇） | [[SBSUB][CONAN][889&890][1080P][MP4&MKV]](magnet:?xt=urn:btih:e8b8995cdb37de972d5aba75d38495479caf43c0) | 2A8A35F2 | |
+| 890 | 新任老师的骸骨事件（后篇） | [[SBSUB][CONAN][889&890][1080P][MP4&MKV]](magnet:?xt=urn:btih:e8b8995cdb37de972d5aba75d38495479caf43c0) | 77F8D7F8 | |
+| 891 | 幕末维新神秘之旅（山口篇） | [[SBSUB][CONAN][891&892][1080P][MP4&MKV]](magnet:?xt=urn:btih:9d92dd9395d8100bdf5ece355ea8845419021163) | 7AAA39D9 | |
+| 892 | 幕末维新神秘之旅（萩篇） | [[SBSUB][CONAN][891&892][1080P][MP4&MKV]](magnet:?xt=urn:btih:9d92dd9395d8100bdf5ece355ea8845419021163) | B0D4B363 | |
 
 ### 901 ~ 1000
 
