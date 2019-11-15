@@ -18,6 +18,31 @@
 
 ### 701 ~ 800
 
+| 集数 | 标题 | Magnet | CRC(MKV) | 备注 |
+| --- | --- | --- | --- | --- |
+| 779 | 绯色的序章 | [[SBSUB][CONAN][779][V2][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:e62a567806c0b5a6daef3f795e3885a0354c7d49) | 29152AED | |
+| 780 | 绯色的追求 | [[SBSUB][CONAN][780][V2][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:fb5cf2a19b417f99a5af9982381510b9e0804d65) | F23A8AFD | |
+| 781 | 绯色的交错 | [[SBSUB][CONAN][781][V2][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:68a05c1753fa25be5791817a23e1f8a40fcd586f) | 861CED1E | |
+| 782 | 绯色的回归 | [[SBSUB][CONAN][782][V2][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:7d93f1046f1a2e1c96cf367bed257bed7419d3ae) | B97DDDB6 | |
+| 783 | 绯色的真相 | [[SBSUB][CONAN][783][V2][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:a1a025b14cf40edbfb0621ea8b43208017f3249d) | 9598F967 | |
+| 784 | 欢迎来到织女俱乐部 | [[SBSUB][CONAN][784][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:25b2c7d76e75b21d92fb4814c8119aa2f6cd19f3) | BA56EBF7 | |
+| 785 | 太阁爱的名人战（前篇） | [[SBSUB][CONAN][785&786][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:1ef2e7104ed40b0573ae51d71cfd2066e6772d03) | D7564EF7 | |
+| 786 | 太阁爱的名人战（后篇） | [[SBSUB][CONAN][785&786][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:1ef2e7104ed40b0573ae51d71cfd2066e6772d03) | 53DD4396 | |
+| 787 | 没于仲夏泳池之谜（前篇） | [[SBSUB][CONAN][787&788][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:dc7708ae7d167108bc164cf49ee57636f15d17c2) | B45394C4 | |
+| 788 | 没于仲夏泳池之谜（后篇） | [[SBSUB][CONAN][787&788][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:dc7708ae7d167108bc164cf49ee57636f15d17c2) | 89E0112A | |
+| 789 | 女王大人的天气预报 | [[SBSUB][CONAN][789][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:427d7f9aef8337132f974b211e1f6c48412e04d3) | FCA596DF | |
+| 790 | 米花宝出血大甩卖 | [[SBSUB][CONAN][790][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:1d75857177ba12a971b1bcc7629e458a1cbb85e9) | C3C2066B | |
+| 791 | 高木警官、戴着手铐逃跑 | [[SBSUB][CONAN][791][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:e7c3ad01df827e39e0e7021fa2dc020f689305e0) | DA74ADE9 | |
+| 792 | 三名第一发现者（前篇） | [[SBSUB][CONAN][792&793][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:c89afa1812934fd6e38485d1a4e4b263892afd81) | 03361E69 | |
+| 793 | 三名第一发现者（后篇） | [[SBSUB][CONAN][792&793][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:c89afa1812934fd6e38485d1a4e4b263892afd81) | 12DD8FE7 | |
+| 794 | 保镖毛利小五郎 | [[SBSUB][CONAN][794][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:0cbed650182d972dfd5c10b62579286977f7eee9) | 51BA6988 | |
+| 795 | 年轻太太消失之谜 | [[SBSUB][CONAN][795][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:59e199ef9758799f5b83017a37689c5a54033bc7) | EE668C86 | |
+| 796 | 形影不离的夫妻的计谋 | [[SBSUB][CONAN][796][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:9615cfa3daa57d6a1787f8dc9c701256f8b4486b) | D32479F8 | |
+| 797 | 迷梦少女的迷推理 | [[SBSUB][CONAN][797][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:7ad26e75f9c10267022957e6f259522b79393afe) | 167ADC54 | |
+| 798 | 移动的目标 | [[SBSUB][CONAN][798][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:af0c0f9e54d60e5233c05913c27d93275752bc7c) | DEFB9FC9 | |
+| 799 | 侦探团的密室推理合战 | [[SBSUB][CONAN][799][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:136d4020e71a64215990f38e21f5d8b5f0e99bd3) | CAD890B3 | |
+| 800 | 追逐一亿日元 | [[SBSUB][CONAN][800][1080P][AVC_AAC][MP4&MKV]](magnet:?xt=urn:btih:1a6024a593b3a20fd59d30d1ed6014d56da1525b) | 0FAEFC07 | |
+
 ### 801 ~ 900
 
 | 集数 | 标题 | Magnet | CRC(MKV) | 备注 |
@@ -116,6 +141,19 @@
 | 892 | 幕末维新神秘之旅（萩篇） | [[SBSUB][CONAN][891&892][1080P][MP4&MKV]](magnet:?xt=urn:btih:9d92dd9395d8100bdf5ece355ea8845419021163) | B0D4B363 | |
 
 ### 901 ~ 1000
+
+| 集数 | 标题 | Magnet | CRC(MKV) | 备注 |
+| --- | --- | --- | --- | --- |
+| 921 | 充满杀意的拼车 | [[SBSUB][CONAN][921][1080P][MP4&MKV]](magnet:?xt=urn:btih:84415c99fe058ea206b9c337d3b4fbafd6b175df) | A20AAD4C | |
+| 922 | 消失的少年侦探团 | [[SBSUB][CONAN][922][1080P][MP4&MKV]](magnet:?xt=urn:btih:b93a4c231f823ea316f7b037182923d5f096fe4d) | 873CC08F | |
+| 923 | 柯南不在的日子 | [[SBSUB][CONAN][923][1080P][MP4&MKV]](magnet:?xt=urn:btih:3bf34c9ac7b00b82ce63c9a98aba32d0ec4c0ab7) | C25DC6A0 | |
+| 924 | 落日下的橘园 | [[SBSUB][CONAN][924][1080P][MP4&MKV]](magnet:?xt=urn:btih:757e31873b8861d8be9978fba7b410743aae6526) | A3DCF957 | |
+| 925 | 充满心意的手机挂件（前篇） | [[SBSUB][CONAN][925&926][1080P][MP4&MKV]](magnet:?xt=urn:btih:b6a7681fe21e3b277b90d042571c83fd7af683da) | 0DB91B8B | |
+| 926 | 充满心意的手机挂件（后篇） | [[SBSUB][CONAN][925&926][1080P][MP4&MKV]](magnet:?xt=urn:btih:b6a7681fe21e3b277b90d042571c83fd7af683da) | 0BC3B1EB | |
+| 927 | 红色的修学旅行（鲜红篇） | [[SBSUB][CONAN][927&928][1080P][MP4&MKV]](magnet:?xt=urn:btih:6aad7406e1a6f487963407062c4d5455f92e58a6) | 0B90626F | |
+| 928 | 红色的修学旅行（恋红篇） | [[SBSUB][CONAN][927&928][1080P][MP4&MKV]](magnet:?xt=urn:btih:6aad7406e1a6f487963407062c4d5455f92e58a6) | 6ECBEBD2 | |
+| 929 | 伫立在窗边的女人（前篇） | [[SBSUB][CONAN][929&930][1080P][MP4&MKV]](magnet:?xt=urn:btih:199aefd83d3e66609424dea3643531fad758670d) | 229AD637 | |
+| 930 | 伫立在窗边的女人（后篇） | [[SBSUB][CONAN][929&930][1080P][MP4&MKV]](magnet:?xt=urn:btih:199aefd83d3e66609424dea3643531fad758670d) | 27BBE3C9 | |
 
 ### 1001 ~ 1100
 
