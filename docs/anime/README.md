@@ -7,6 +7,12 @@
 
 相关链接：
 
+[名侦探柯南事务所](https://bbs.aptx.cn/forum.php)
+
+[~~探梦 CONANS~~](https://web.archive.org/web/20160602224250/http://www.conans.cc/forum.php)
+
+[银色子弹](https://www.sbsub.com)
+
 [動漫花園資源網](https://share.dmhy.org)
 
 [柯南事务所 - 動漫花園資源網](https://share.dmhy.org/topics/list/team_id/75)
@@ -15,8 +21,6 @@
 
 [银色子弹字幕组 - 動漫花園資源網](https://share.dmhy.org/topics/list/team_id/576)
 
-[名侦探柯南事务所](https://bbs.aptx.cn/forum.php)
+[HorribleSubs](https://horriblesubs.info/shows/detective-conan)
 
-[~~探梦-我的名侦探柯南家园~~](https://web.archive.org/web/20160602224250/http://www.conans.cc/forum.php)
-
-[银色子弹](https://www.sbsub.com)
+[Erai-raws](https://www.erai-raws.info/anime-list/detective-conan)
