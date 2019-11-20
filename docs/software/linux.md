@@ -102,6 +102,14 @@ sudo make install
 
 ## Caddy
 
+### 安装
+
+```bash
+curl https://getcaddy.com | bash -s personal http.git
+```
+
+[官方网站](https://caddyserver.com) [GitHub](https://github.com/caddyserver/caddy)
+
 ## RSSBot
 
 ### 安装
