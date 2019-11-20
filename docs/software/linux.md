@@ -108,7 +108,71 @@ sudo make install
 curl https://getcaddy.com | bash -s personal http.git
 ```
 
-[官方网站](https://caddyserver.com) [GitHub](https://github.com/caddyserver/caddy)
+### 创建目录和文件
+
+```bash
+sudo mkdir /etc/caddy
+sudo chown -R root:root /etc/caddy
+sudo mkdir /etc/ssl/caddy
+sudo chown -R root:www-data /etc/ssl/caddy
+sudo chmod 0770 /etc/ssl/caddy
+
+sudo touch /etc/caddy/Caddyfile
+sudo chown root:root /etc/caddy/Caddyfile
+sudo chmod 644 /etc/caddy/Caddyfile
+
+sudo mkdir /var/www
+sudo chown www-data:www-data /var/www
+sudo chmod 555 /var/www
+
+sudo mkdir /var/www/example.com
+sudo chown -R www-data:www-data /var/www/example.com
+sudo chmod -R 755 /var/www/example.com
+```
+
+### Caddyfile
+
+```
+example.com, www.example.com {
+    gzip
+    tls email
+    root /var/www/example.com
+    
+    git {
+        repo repo
+        path /var/www/example.com
+        branch master
+        interval -1
+        hook /webhook secret
+        hook_type generic
+    }
+}
+```
+
+`email` 电子邮件地址，用于CA生成证书
+
+`repo` 远程仓库URL，HTTPS或SSH
+
+`interval` 拉取间隔，单位：秒，默认3600，最小5，-1表示禁用
+
+`secret` 密码，与远程仓库Webhook的Secret保持一致
+
+### 服务
+
+```bash
+wget https://raw.githubusercontent.com/caddyserver/caddy/master/dist/init/linux-systemd/caddy.service
+sudo cp caddy.service /etc/systemd/system/
+sudo chown root:root /etc/systemd/system/caddy.service
+sudo chmod 644 /etc/systemd/system/caddy.service
+sudo systemctl daemon-reload
+sudo systemctl start caddy.service
+```
+
+用法参考 [相关命令](#相关命令)
+
+查看实时日志 `journalctl -f -u caddy`
+
+[官方网站](https://caddyserver.com) [GitHub](https://github.com/caddyserver/caddy) [Linux Systemd](https://github.com/caddyserver/caddy/blob/master/dist/init/linux-systemd/README.md)
 
 ## RSSBot
 
