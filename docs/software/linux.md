@@ -2,8 +2,6 @@
 
 ## Shadowsocks-libev
 
-[GitHub](https://github.com/shadowsocks/shadowsocks-libev)
-
 ### 安装
 
 #### 下载源码
@@ -92,16 +90,19 @@ systemctl status shadowsocks-libev  # 查看状态
 ### 更新
 
 ```bash
+# 拉取源码
 git pull origin master
+
+# 编译安装
 ./autogen.sh && ./configure && make
 sudo make install
 ```
 
+[GitHub](https://github.com/shadowsocks/shadowsocks-libev)
+
 ## Caddy
 
 ## RSSBot
-
-[GitHub](https://github.com/iovxw/rssbot)
 
 ### 安装
 
@@ -132,3 +133,5 @@ unzip rssbot-v1.4.4-linux.zip
 /unsubthis - 使用此命令回复想要退订的 RSS 消息即可退订, 不支持 Channel
 /export    - 导出为 OPML
 ```
+
+[GitHub](https://github.com/iovxw/rssbot)
