@@ -138,6 +138,10 @@ example.com, www.example.com {
     tls email
     root /var/www/example.com
     
+    errors {
+        404 404.html
+    }
+    
     git {
         repo repo
         path /var/www/example.com
