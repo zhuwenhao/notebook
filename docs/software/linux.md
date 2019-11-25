@@ -176,6 +176,8 @@ sudo systemctl start caddy.service
 
 查看实时日志 `journalctl -f -u caddy`
 
+证书的路径 `/etc/ssl/caddy/acme/acme-v02.api.letsencrypt.org/sites`
+
 [官方网站](https://caddyserver.com) [GitHub](https://github.com/caddyserver/caddy) [Linux Systemd](https://github.com/caddyserver/caddy/blob/master/dist/init/linux-systemd/README.md)
 
 ## RSSBot
