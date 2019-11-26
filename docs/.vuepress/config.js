@@ -1,5 +1,11 @@
 module.exports = {
-    title: '猪蚊耗的笔记本',
+    locales: {
+        '/': {
+            lang: 'zh',
+            title: '猪蚊耗的笔记本',
+            description: '猪蚊耗的笔记本'
+        }
+    },
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
