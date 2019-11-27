@@ -12,6 +12,7 @@ module.exports = {
             { text: '动画', link: '/anime/' },
             { text: '软件', link: '/software/' }
         ],
+        search: false,
         sidebar: {
             '/anime/': [
                 {
@@ -38,9 +39,6 @@ module.exports = {
                         'ios'
                     ]
                 }
-            ],
-            '/': [
-                ''
             ]
         },
         displayAllHeaders: true

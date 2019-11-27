@@ -1,3 +1,14 @@
-# README
-
-233
+- 动画
+  + [名侦探柯南](/anime/detective-conan.md)
+    - [TV](/anime/detective-conan.md#tv)
+    - [OVA](/anime/detective-conan.md#ova)
+  + [加速世界](/anime/accel-world.md)
+- 软件
+  + [Linux](/software/linux.md)
+    - [Shadowsocks-libev](/software/linux.md#shadowsocks-libev)
+    - [Caddy](/software/linux.md#caddy)
+    - [RSSBot](/software/linux.md#rssbot)
+  + [Windows](/software/windows.md)
+  + [Android](/software/android.md)
+    - [Chrome](/software/android.md#chrome)
+  + [iOS](/software/ios.md)
