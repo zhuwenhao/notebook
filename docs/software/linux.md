@@ -98,7 +98,54 @@ git pull origin master
 sudo make install
 ```
 
-[GitHub](https://github.com/shadowsocks/shadowsocks-libev)
+### v2ray-plugin
+
+#### 下载并编译
+
+```bash
+git clone https://github.com/shadowsocks/v2ray-plugin.git
+cd v2ray-plugin
+go build
+
+# 复制到/usr/local/bin/
+cp v2ray-plugin /usr/local/bin/
+```
+
+#### Shadowsocks-libev配置文件
+
+```json
+{       
+    "server": "127.0.0.1",
+    "server_port": 10000,
+    "password": "password",
+    "method": "xchacha20-ietf-poly1305",
+    "fast_open": true,
+    "timeout": 60,
+    "plugin": "v2ray-plugin",
+    "plugin_opts": "server;path=/ray"
+}
+```
+
+#### Caddyfile
+
+```
+example.com, www.example.com {
+    gzip
+    tls email
+    root /var/www/example.com
+    
+    errors {
+        404 404.html
+    }
+
+    proxy /ray 127.0.0.1:10000 {
+        websocket
+        header_upstream -Origin
+    }
+}
+```
+
+[GitHub - Shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) [GitHub - v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin)
 
 ## Caddy
 
@@ -184,19 +231,16 @@ sudo systemctl start caddy.service
 
 ### 安装
 
-#### 下载
+[下载地址](https://github.com/iovxw/rssbot)
+
+1. 下载并解压
 
 ```bash
 wget https://github.com/iovxw/rssbot/releases/download/v1.4.4/rssbot-v1.4.4-linux.zip
-```
-
-#### 解压
-
-```bash
 unzip rssbot-v1.4.4-linux.zip
 ```
 
-#### 运行
+2. 运行
 
 ```bash
 ./rssbot DATAFILE TELEGRAM-BOT-TOKEN
@@ -212,4 +256,55 @@ unzip rssbot-v1.4.4-linux.zip
 /export    - 导出为 OPML
 ```
 
-[GitHub](https://github.com/iovxw/rssbot)
+## Go
+
+### 安装
+
+[下载地址](https://golang.org/dl)
+
+1. 下载并解压到 `/usr/local` 目录
+
+```bash
+wget https://dl.google.com/go/go1.13.4.linux-amd64.tar.gz
+tar -C /usr/local -xzf go1.13.4.linux-amd64.tar.gz
+```
+
+2. 在 `/etc/profile` 末尾添加
+
+```
+export PATH=$PATH:/usr/local/go/bin
+```
+
+3. 应用更改
+
+```bash
+source /etc/profile
+```
+
+4. 检查
+
+```bash
+go version
+```
+
+### 升级
+
+1. 删除 `/usr/local/go` 目录
+
+```bash
+rm -rf /usr/local/go
+```
+
+2. 从 `/etc/profile` 中删除
+
+```
+export PATH=$PATH:/usr/local/go/bin
+```
+
+3. 应用更改
+
+```bash
+source /etc/profile
+```
+
+4. [安装](#安装-4)

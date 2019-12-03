@@ -30,7 +30,6 @@ module.exports = {
                 {
                     title: '软件',
                     collapsable: false,
-                    sidebarDepth: 2,
                     children: [
                         ['', '介绍'],
                         'linux',
