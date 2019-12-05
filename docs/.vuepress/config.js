@@ -12,7 +12,6 @@ module.exports = {
             { text: '动画', link: '/anime/' },
             { text: '软件', link: '/software/' }
         ],
-        search: false,
         sidebar: {
             '/anime/': [
                 {
@@ -73,7 +72,6 @@ module.exports = {
                 }
             ]
         },
-        displayAllHeaders: true,
-        lastUpdated: '上次更新'
+        displayAllHeaders: true
     }
 }
