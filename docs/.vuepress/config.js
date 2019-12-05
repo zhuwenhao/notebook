@@ -31,6 +31,7 @@ module.exports = {
                     title: '生日快乐',
                     collapsable: false,
                     children: [
+                        '',
                         '1996',
                         '1997',
                         '1998',
@@ -72,6 +73,7 @@ module.exports = {
                 }
             ]
         },
-        displayAllHeaders: true
+        displayAllHeaders: true,
+        lastUpdated: '上次更新'
     }
 }
