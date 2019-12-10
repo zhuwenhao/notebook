@@ -122,7 +122,7 @@ cp v2ray-plugin /usr/local/bin/
     "fast_open": true,
     "timeout": 60,
     "plugin": "v2ray-plugin",
-    "plugin_opts": "server;path=/ray"
+    "plugin_opts": "server;fast-open;path=/ray"
 }
 ```
 
