@@ -46,11 +46,11 @@
 
 | 话数 | 压制 | CRC-32 | 字幕 | CRC-32 | 分辨率 |
 | --- | --- | --- | --- | --- | --- |
-| 一 | VCB-Studio | B35F0568 | SumiSora | 4547F53F | 1080p |
-| 二 | VCB-Studio | 3A0B322B | SumiSora | 9F143F3D | 1080p |
-| 三 | VCB-Studio | 59586C75 | SumiSora | 1BAF82CC | 1080p |
-| 四 | VCB-Studio | 31F9AEF7 | SumiSora | C61A06D2 | 1080p |
-| 五 | VCB-Studio | 2198F110 | SumiSora | EFCE9F7A | 1080p |
-| 六 | VCB-Studio | 20FE2EE4 | SumiSora | 9B4BE027 | 1080p |
-| 七 | VCB-Studio | 820E7C39 | SumiSora | 57CE317B | 1080p |
-| 八 | VCB-Studio | 7C4C7F80 | SumiSora | 72F9F52C | 1080p |
+| 01 | VCB-Studio | B35F0568 | SumiSora | 4547F53F | 1080p |
+| 02 | VCB-Studio | 3A0B322B | SumiSora | 9F143F3D | 1080p |
+| 03 | VCB-Studio | 59586C75 | SumiSora | 1BAF82CC | 1080p |
+| 04 | VCB-Studio | 31F9AEF7 | SumiSora | C61A06D2 | 1080p |
+| 05 | VCB-Studio | 2198F110 | SumiSora | EFCE9F7A | 1080p |
+| 06 | VCB-Studio | 20FE2EE4 | SumiSora | 9B4BE027 | 1080p |
+| 07 | VCB-Studio | 820E7C39 | SumiSora | 57CE317B | 1080p |
+| 08 | VCB-Studio | 7C4C7F80 | SumiSora | 72F9F52C | 1080p |
