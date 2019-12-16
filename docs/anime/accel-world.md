@@ -1,5 +1,13 @@
 # 加速世界
 
+::: tip 📌
+
+[VCB-Studio](https://vcb-s.com) [动漫花园](https://share.dmhy.org/topics/list/team_id/581)
+
+SumiSora :point_right: [澄空学园](https://bbs.sumisora.net) [动漫花园](https://share.dmhy.org/topics/list/team_id/58)
+
+:::
+
 ## TV
 
 | 话数 | 标题 | 压制 | CRC-32 | 字幕 | CRC-32 | 分辨率 |
@@ -36,7 +44,7 @@
 | EX01 | 残响 | VCB-Studio | AC07E139 | SumiSora | 4A81BBDA | 1080p |
 | EX02 | 温泉 | VCB-Studio | 96F27303 | SumiSora | BD9470E8 | 1080p |
 
-## MOVIE
+## 剧场版
 
 | 标题 | 压制 | CRC-32 | 字幕 | CRC-32 | 分辨率 |
 | --- | --- | --- | --- | --- | --- |

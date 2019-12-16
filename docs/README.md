@@ -3,6 +3,10 @@
     - [TV](/anime/detective-conan.md#tv)
     - [OVA](/anime/detective-conan.md#ova)
   + [加速世界](/anime/accel-world.md)
+    + [TV](/anime/accel-world.md#tv)
+    + [OVA](/anime/accel-world.md#ova)
+    + [剧场版](/anime/accel-world.md#剧场版)
+    + [小加速世界](/anime/accel-world.md#小加速世界)
 - 软件
   + [Linux](/software/linux.md)
     - [Shadowsocks-libev](/software/linux.md#shadowsocks-libev)
