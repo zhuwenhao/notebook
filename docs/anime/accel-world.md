@@ -6,6 +6,8 @@
 
 SumiSora :point_right: [澄空学园](https://bbs.sumisora.net) [动漫花园](https://share.dmhy.org/topics/list/team_id/58)
 
+Kamigami :point_right: [诸神字幕组](https://subs.kamigami.org) [动漫花园](https://share.dmhy.org/topics/list/team_id/288)
+
 :::
 
 ## TV
@@ -48,7 +50,7 @@ SumiSora :point_right: [澄空学园](https://bbs.sumisora.net) [动漫花园](h
 
 | 标题 | 压制 | CRC-32 | 字幕 | CRC-32 | 分辨率 |
 | --- | --- | --- | --- | --- | --- |
-| Infinite Burst | VCB-Studio | 27F7994E | | | 1080p |
+| Infinite Burst | VCB-Studio | 27F7994E | Kamigami | 4CA0E39B | 1080p |
 
 ## 小加速世界
 
