@@ -41,10 +41,10 @@ Kamigami :point_right: [诸神字幕组](https://subs.kamigami.org) [动漫花�
 
 ## OVA
 
-| 话数 | 标题 | 压制 | CRC-32 | 字幕 | CRC-32 | 分辨率 |
-| --- | --- | --- | --- | --- | --- | --- |
-| EX01 | 残响 | VCB-Studio | AC07E139 | SumiSora | 4A81BBDA | 1080p |
-| EX02 | 温泉 | VCB-Studio | 96F27303 | SumiSora | BD9470E8 | 1080p |
+| 话数 | 标题 | 压制组 | 字幕组 | 分辨率 | CRC-32 |
+| --- | --- | --- | --- | --- | --- |
+| EX01 | 残响 | VCB-Studio | SumiSora | 1080p | CDA63673 |
+| EX02 | 温泉 | VCB-Studio | SumiSora | 1080p | ED7D50DE |
 
 ## 剧场版
 
