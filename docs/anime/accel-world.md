@@ -43,8 +43,8 @@ Kamigami :point_right: [诸神字幕组](https://subs.kamigami.org) [动漫花�
 
 | 话数 | 标题 | 压制组 | 字幕组 | 分辨率 | CRC-32 |
 | --- | --- | --- | --- | --- | --- |
-| EX01 | 残响 | VCB-Studio | SumiSora | 1080p | CDA63673 |
-| EX02 | 温泉 | VCB-Studio | SumiSora | 1080p | ED7D50DE |
+| EX01 | 残响 | VCB-Studio | SumiSora | 1080p | DEF27F29 |
+| EX02 | 温泉 | VCB-Studio | SumiSora | 1080p | F2DD74FC |
 
 ## 剧场版
 
