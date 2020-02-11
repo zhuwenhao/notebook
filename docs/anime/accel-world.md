@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # 加速世界
 
 ::: tip 📌
@@ -56,11 +60,11 @@ Kamigami :point_right: [诸神字幕组](https://subs.kamigami.org) [动漫花�
 
 | 话数 | 压制组 | 字幕组 | 分辨率 | CRC-32 |
 | --- | --- | --- | --- | --- |
-| 01 | VCB-Studio | SumiSora | 1080p | B83F4B99 |
-| 02 | VCB-Studio | SumiSora | 1080p | C1F64FBA |
-| 03 | VCB-Studio | SumiSora | 1080p | EB6E9961 |
-| 04 | VCB-Studio | SumiSora | 1080p | 352ADED4 |
-| 05 | VCB-Studio | SumiSora | 1080p | CA9AB2DE |
-| 06 | VCB-Studio | SumiSora | 1080p | 2695CBCA |
-| 07 | VCB-Studio | SumiSora | 1080p | 9FF3644A |
-| 08 | VCB-Studio | SumiSora | 1080p | 78452EFF |
+| 01 | VCB-Studio | SumiSora | 1080p | A7B7A751 |
+| 02 | VCB-Studio | SumiSora | 1080p | F91A43BB |
+| 03 | VCB-Studio | SumiSora | 1080p | 34898EC6 |
+| 04 | VCB-Studio | SumiSora | 1080p | A21DC9B7 |
+| 05 | VCB-Studio | SumiSora | 1080p | 826C14DB |
+| 06 | VCB-Studio | SumiSora | 1080p | AE60DB6B |
+| 07 | VCB-Studio | SumiSora | 1080p | E6AED6BA |
+| 08 | VCB-Studio | SumiSora | 1080p | 2F0F136B |

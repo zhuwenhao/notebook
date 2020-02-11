@@ -9,22 +9,26 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
-            { text: '动画', link: '/anime/' },
-            { text: '软件', link: '/software/' }
+            {
+                text: '动画',
+                ariaLabel: '动画',
+                items: [
+                    { text: '名侦探柯南', link: '/anime/detective-conan' },
+                    { text: '加速世界', link: '/anime/accel-world' }
+                ]
+            },
+            {
+                text: '软件',
+                ariaLabel: '软件',
+                items: [
+                    { text: 'Linux', link: '/software/linux' },
+                    { text: 'Windows', link: '/software/windows' },
+                    { text: 'Android', link: '/software/android' },
+                    { text: 'iOS', link: '/software/ios' }
+                ]
+            }
         ],
         sidebar: {
-            '/anime/': [
-                {
-                    title: '动画',
-                    collapsable: false,
-                    sidebarDepth: 2,
-                    children: [
-                        ['', '介绍'],
-                        'detective-conan',
-                        'accel-world'
-                    ]
-                }
-            ],
             '/movie/happy-birthday/': [
                 {
                     title: '生日快乐',
@@ -55,19 +59,6 @@ module.exports = {
                         '2017',
                         '2018',
                         '2019'
-                    ]
-                }
-            ],
-            '/software/': [
-                {
-                    title: '软件',
-                    collapsable: false,
-                    children: [
-                        ['', '介绍'],
-                        'linux',
-                        'windows',
-                        'android',
-                        'ios'
                     ]
                 }
             ]

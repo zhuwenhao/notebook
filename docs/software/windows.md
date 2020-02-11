@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Windows
 
 ## 命令提示符

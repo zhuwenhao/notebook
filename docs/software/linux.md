@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Linux
 
 ## Shadowsocks-libev

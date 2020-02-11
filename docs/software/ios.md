@@ -1,1 +1,5 @@
+---
+sidebar: auto
+---
+
 # iOS
