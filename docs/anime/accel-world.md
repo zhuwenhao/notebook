@@ -52,9 +52,9 @@ Kamigami :point_right: [诸神字幕组](https://subs.kamigami.org) [动漫花�
 
 ## 剧场版
 
-| 标题 | 压制 | CRC-32 | 字幕 | CRC-32 | 分辨率 |
-| --- | --- | --- | --- | --- | --- |
-| Infinite Burst | VCB-Studio | 27F7994E | Kamigami | 4CA0E39B | 1080p |
+| 标题 | 字幕组 | 分辨率 | CRC-32 |
+| --- | --- | --- | --- |
+| Infinite Burst | Kamigami | 1080p | EC3F04F4 |
 
 ## 小加速世界
 
