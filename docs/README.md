@@ -9,12 +9,6 @@
     + [小加速世界](/anime/accel-world.md#小加速世界)
 - 软件
   + [Linux](/software/linux.md)
-    - [Shadowsocks-libev](/software/linux.md#shadowsocks-libev)
-    - [Caddy](/software/linux.md#caddy)
-    - [RSSBot](/software/linux.md#rssbot)
-    - [Go](/software/linux.md#go)
   + [Windows](/software/windows.md)
-    - [命令提示符](/software/windows.md#命令提示符)
   + [Android](/software/android.md)
-    - [Chrome](/software/android.md#chrome)
   + [iOS](/software/ios.md)
