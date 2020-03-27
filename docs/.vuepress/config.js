@@ -26,6 +26,13 @@ module.exports = {
                     { text: 'Android', link: '/software/android' },
                     { text: 'iOS', link: '/software/ios' }
                 ]
+            },
+            {
+                text: '游戏',
+                ariaLabel: '游戏',
+                items: [
+                    { text: '跑跑卡丁车', link: '/game/popkart' }
+                ]
             }
         ],
         sidebar: {
