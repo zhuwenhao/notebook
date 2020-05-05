@@ -8,15 +8,16 @@ module.exports = {
     },
     themeConfig: {
         nav: [
-            { text: '首页', link: '/' },
             {
                 text: '动画',
                 ariaLabel: '动画',
                 items: [
                     { text: '名侦探柯南', link: '/anime/detective-conan' },
+                    { text: '魔术快斗', link: '/anime/magic-kaito' },
                     { text: '加速世界', link: '/anime/accel-world' }
                 ]
             },
+            { text: '电视剧', link: '/tv/' },
             {
                 text: '软件',
                 ariaLabel: '软件',
