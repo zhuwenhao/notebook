@@ -839,7 +839,7 @@ OCTSUB :point_right: [章魚字幕组](https://share.dmhy.org/topics/list/user_i
 | 776 | | | | | |
 | 777 | | | | | |
 | 778 | | | | | |
-| 779 | 绯色的序章 | SBSUB | 1080P | B62BBFED | |
+| 779 | 绯色的序章 | SBSUB | 1080P | B62BBFED | V2.1 |
 | 780 | 绯色的追寻 | SBSUB | 1080P | F23A8AFD | |
 | 781 | 绯色的交错 | SBSUB | 1080P | 861CED1E | |
 | 782 | 绯色的回归 | SBSUB | 1080P | B97DDDB6 | |
