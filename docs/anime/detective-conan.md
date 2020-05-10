@@ -839,7 +839,7 @@ OCTSUB :point_right: [章魚字幕组](https://share.dmhy.org/topics/list/user_i
 | 776 | | | | | |
 | 777 | | | | | |
 | 778 | | | | | |
-| 779 | 绯色的序章 | SBSUB | 1080P | 29152AED | |
+| 779 | 绯色的序章 | SBSUB | 1080P | B62BBFED | |
 | 780 | 绯色的追寻 | SBSUB | 1080P | F23A8AFD | |
 | 781 | 绯色的交错 | SBSUB | 1080P | 861CED1E | |
 | 782 | 绯色的回归 | SBSUB | 1080P | B97DDDB6 | |
@@ -857,10 +857,10 @@ OCTSUB :point_right: [章魚字幕组](https://share.dmhy.org/topics/list/user_i
 | 794 | 保镖毛利小五郎 | SBSUB | 1080P | 51BA6988 | |
 | 795 | 年轻太太消失之谜 | SBSUB | 1080P | EE668C86 | |
 | 796 | 形影不离的夫妻的计谋 | SBSUB | 1080P | D32479F8 | |
-| 797 | 迷梦少女的迷推理 | SBSUB | 1080P | 167ADC54 | |
-| 798 | 移动的目标 | SBSUB | 1080P | DEFB9FC9 | |
-| 799 | 侦探团的密室推理合战 | SBSUB | 1080P | CAD890B3 | |
-| 800 | 追逐一亿日圆 | SBSUB | 1080P | 0FAEFC07 | |
+| 797 | 迷梦少女的迷推理 | SBSUB | 1080P | 0356D44C | V2 |
+| 798 | 移动的目标 | SBSUB | 1080P | 5B32CC8E | V2 |
+| 799 | 侦探团的密室推理合战 | SBSUB | 1080P | 0E64E5F9 | V1.1 |
+| 800 | 追逐一亿日圆 | SBSUB | 1080P | 4FC2B4CC | V1.1 |
 
 ### 801 ~ 900
 
