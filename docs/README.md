@@ -15,5 +15,3 @@
   + [Windows](/software/windows.md)
   + [Android](/software/android.md)
   + [iOS](/software/ios.md)
-- 游戏
-  - [跑跑卡丁车](/game/popkart.md)
