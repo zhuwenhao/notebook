@@ -23,9 +23,7 @@ module.exports = {
                 ariaLabel: '软件',
                 items: [
                     { text: 'Linux', link: '/software/linux' },
-                    { text: 'Windows', link: '/software/windows' },
-                    { text: 'Android', link: '/software/android' },
-                    { text: 'iOS', link: '/software/ios' }
+                    { text: 'Windows', link: '/software/windows' }
                 ]
             }
         ],

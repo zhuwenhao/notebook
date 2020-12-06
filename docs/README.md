@@ -13,5 +13,3 @@
 - 软件
   + [Linux](/software/linux.md)
   + [Windows](/software/windows.md)
-  + [Android](/software/android.md)
-  + [iOS](/software/ios.md)
